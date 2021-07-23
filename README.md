@@ -1,3 +1,5 @@
+App deployed on : https://priceless-murdock-47ca68.netlify.app
+
 # dino-chrome-clone
 Clone of Google Chrome "secret" Dino game. Made in JS with Phaser 3
 
